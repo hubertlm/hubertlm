@@ -27,7 +27,7 @@
 
 ## Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-hubert-miranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hubert-miranda/)](https://www.linkedin.com/in/hubert-miranda/)
+[![Linkedin](https://img.shields.io/badge/-hubertmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hubert-miranda/)](https://www.linkedin.com/in/hubert-miranda/)
 [![Gmail Badge](https://img.shields.io/badge/-hubertluzm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hubertluzm@gmail.com)](mailto:hubertluzm@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/hubertlm?label=follow&style=social)](github.com/hubertlm)
 
