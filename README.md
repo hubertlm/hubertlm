@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hubertlm&color=006bed)
-
 ## About me
 
 - 🤔 Exploring new languages and hardware.
