@@ -1,33 +1,52 @@
-## About me
+# Olá, eu sou o Hubert! 👋
+## Engenheiro de Computação em Formação | Entusiasta de Linux Embarcado & Firmware
 
-- 🤔 Exploring new languages and hardware.
-- 🎓 Studyng Computer Engineering in Universidade Federal do Ceará.
+Atualmente cursando **Engenharia de Computação na Universidade Federal do Ceará (UFC)**. Minha paixão reside no baixo nível, conectando hardware e software.
 
-## My Skills
+Tenho experiência prática como pesquisador/bolsista na área de **Firmware**, desenvolvendo soluções robustas com **microcontroladores STM32**. Atualmente, meu foco principal é o ecossistema de **Linux Embarcado**, explorando distribuições como Fedora e Ubuntu em contextos industriais e acadêmicos.
 
-**Languages**
+Além do "bit a bit", desenvolvo **aplicações Web** para criar interfaces e ferramentas que dão suporte aos meus projetos de hardware.
 
+---
 
+### 🛠️ Tech Stack
+
+#### ⚡ Sistemas Embarcados & Firmware
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Development tools**
-
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<br/>
+#### 🐧 Linux & SO
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+#### 🌐 Web & Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Where to find me
+---
 
-[![Linkedin](https://img.shields.io/badge/-hubertmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hubert-miranda/)](https://www.linkedin.com/in/hubert-miranda/)
-[![Gmail Badge](https://img.shields.io/badge/-hubertluzm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hubertluzm@gmail.com)](mailto:hubertluzm@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/hubertlm?label=follow&style=social)](github.com/hubertlm)
+### 📊 GitHub Stats
 
-<!---
-hubertlm/hubertlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/hubertlm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hubertlm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertlm&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-miranda/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hubertluzm@gmail.com)](mailto:hubertluzm@gmail.com)
+
+</div>
