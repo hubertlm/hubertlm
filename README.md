@@ -1,4 +1,4 @@
-# Olá, eu sou o Hubert! 👋
+# Hubert Miranda
 ## Engenheiro de Computação em Formação | Entusiasta de Linux Embarcado & Firmware
 
 Atualmente cursando Engenharia de Computação na Universidade Federal do Ceará (UFC). Atuando principalmente no baixo nível, conectando hardware e software.
