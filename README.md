@@ -1,11 +1,11 @@
 # Olá, eu sou o Hubert! 👋
 ## Engenheiro de Computação em Formação | Entusiasta de Linux Embarcado & Firmware
 
-Atualmente cursando **Engenharia de Computação na Universidade Federal do Ceará (UFC)**. Minha paixão reside no baixo nível, conectando hardware e software.
+Atualmente cursando Engenharia de Computação na Universidade Federal do Ceará (UFC). Atuando principalmente no baixo nível, conectando hardware e software.
 
-Tenho experiência prática como pesquisador/bolsista na área de **Firmware**, desenvolvendo soluções robustas com **microcontroladores STM32**. Atualmente, meu foco principal é o ecossistema de **Linux Embarcado**, explorando distribuições como Fedora e Ubuntu em contextos industriais e acadêmicos.
+Tenho experiência prática como pesquisador/bolsista na área de Firmware, desenvolvendo soluções com microcontroladores STM32. Atualmente, meu foco principal é o ecossistema de Linux Embarcado, explorando distribuições como Fedora e Ubuntu em contextos industriais e acadêmicos.
 
-Além do "bit a bit", desenvolvo **aplicações Web** para criar interfaces e ferramentas que dão suporte aos meus projetos de hardware.
+Além do "bit a bit", desenvolvo aplicações Web para criar interfaces e ferramentas que dão suporte aos meus projetos de hardware.
 
 ---
 
