@@ -1,4 +1,4 @@
-# Hi, I'm Hubert Luz de Miranda 👋
+# I'm Hubert Luz de Miranda
 
 ### Embedded Firmware & Linux Engineering Student | CentraleSupélec × UFC
 
