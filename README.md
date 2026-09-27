@@ -1,6 +1,6 @@
 # I'm Hubert Luz de Miranda
 
-### Embedded Firmware & Linux Engineering Student | CentraleSupélec × UFC
+### Engineering Student | CentraleSupélec × UFC
 
 I'm a computer engineering student on a **double-degree track between [CentraleSupélec](https://www.centralesupelec.fr/) (Gif-sur-Yvette, France) and the [Federal University of Ceará (UFC)](https://ufc.br/) (Brazil)**, working mostly at the low level, where hardware meets software.
 
