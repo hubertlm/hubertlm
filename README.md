@@ -14,7 +14,7 @@ Most of my experience comes from Embrapii industry-partnership projects at **LES
 
 - **Vision board bring-up (Intern, 01/2025 – 05/2026)** – firmware for a dedicated computer-vision board inside a drone's onboard computer (Quectel SG882G / Qualcomm QCS8550 module). I validated the custom board's interfaces and worked on the camera stack (Sony IMX577, CamX/Chi-CDK on Yocto) and on SPI bring-up under embedded Linux.
 - **Atletec (Research scholar, 01/2026 – 08/2026)** – UWB firmware on Qorvo SDK / nRF52840 hardware, including porting a BQ27427 fuel-gauge driver from Zephyr to bare metal through a small HAL built on `nrfx_twim`.
-- **BLE smart dynamometer (Research scholar, since 08/2025)** – STM32 firmware: load-cell acquisition code, filtering to avoid spikes and noise, and persistence of key variables in flash.
+- **BLE smart dynamometer (Research scholar, 08/2025 - 08/2026)** – STM32 firmware: load-cell acquisition code, filtering to avoid spikes and noise, and persistence of key variables in flash.
 
 ### 🎓 Beyond the lab
 
